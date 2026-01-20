@@ -6,7 +6,7 @@ function pesquisar () {
   
   
   if (campoPesquisa == "") {
-        section.innerHTML = "<p>Nenhum mito encontrado</p>"
+        section.innerHTML = "<p>Nenhum livro encontrado</p>"
     return
   }
   
