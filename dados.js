@@ -51,7 +51,7 @@ let dados = [
     },
     {
       imagem: "https://cdn.rickriordan.com/wp-content/uploads/2017/04/11230243/athenalongerguard-299x416.jpg",
-      titulo: "Harry Potter", //não mudei foto
+      titulo: "Harry Potter e a pedra filosofal", //não mudei foto
       descricao: "Deusa da sabedoria e da estratégia em guerras, da civilização, matemática, estratégia, guerra defensiva, do artesanato, das artes, habilidades, da inteligência e do brilhantismo, seu símbolo é uma coruja. Teve uma desavença com Aracne e depois disso todos os seus filhos adquiriram medo de aranhas. Olhos cinzentos e calculistas. Não gosta do Percy. Contraparte romano: Minerva.",
       link: "https://riordan.fandom.com/wiki/Athena",
       combinacao: "https://avesornamentaisjej.cdn.magazord.com.br/img/2024/03/produto/462/79-coruja-suindara-2.png?ims=600x600"
