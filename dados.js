@@ -58,7 +58,7 @@ let dados = [
     },
     {
       imagem: "https://i.pinimg.com/564x/d7/ae/72/d7ae724aeb0af8b702e4d75008539d84.jpg",
-      titulo: "Dionísio", //não mudei foto
+      titulo: "Vermelho é a cor do caos", //não mudei foto
       descricao: "Deus do vinho, do teatro, da loucura, das festas e da alegria. Foi condenado a ficar no acampamento meio-sangue e foi proibido de beber vinho após perseguir uma ninfa duas vezes. Contraparte romano: Baco.",
       link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Dion%C3%ADsio",
       combinacao: "https://m.media-amazon.com/images/I/51wYv9ua2qL._AC_UF894,1000_QL80_.jpg"
@@ -155,3 +155,4 @@ let dados = [
       combinacao: "https://pm1.aminoapps.com/7054/ba384b0eba6eff0cb254ab2edc10daebcdff5c37r1-1200-1800v2_hq.jpg"
     },
   ];
+  
