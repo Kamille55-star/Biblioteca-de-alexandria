@@ -15,11 +15,11 @@ let dados = [
       combinacao: "https://i.pinimg.com/originals/da/5b/7a/da5b7aec367c40be3d493aea7e9cf9aa.jpg",
     },
    {
-      imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQikw0ZOH90jYYXdkTqQ-q_Sl2zDaKWZpAIE-3JUdXwpXIR5C0CybT_WK3pacjE6aeI954&usqp=CAU",
+      imagem: "https://a-static.mlcdn.com.br/450pxx450px/kit-3-livros-as-cronicas-dos-kane-rick-riordan-intrinseca/studiochihiro/11219024825/f145497dc4b80fc60d1e2e4448c76417.jpeg",
       titulo: "As crônicas dos Kane.", //não mudei foto
       descricao: "Dois irmãos separados após a morte da mãe passam o dia com o pai. Mas após o pai roubar uma pedra preciosa e morrer tentando invocar Hórus os irmãos descobrem que a mitologia egípcia e outras mitologias são reais. E que eles precisam salvar o mundo.",
-      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Percy_Jackson",
-      combinacao: "https://www.cevek.com.br/blog/wp-content/uploads/2019/10/Quais-cuidados-eu-devo-ter-com-meu-porquinho-da-%C3%ADndia-min.jpg"
+      link: "https://www.amazon.com.br/Cronicas-Piramide-Vermelha-Serpente-Volumes/dp/8900007661/ref=sr_1_4?crid=32BZE5NBLUZQW&dib=eyJ2IjoiMSJ9.PHHeqARn5aj7hNkMGTRGlFUmeI2vaaI-FmAiKyIxsuSPCUsV9Fh0nxhUHu6GpNFewST_T-6XxmpWSGbbzI2Z39cqmu8h2M55z-HnQ3d_cFqjCNWLwTpjcgB_AcB9kAjhGEgsm2KU9CRM0gI7uxQ_pg0AtGF5BL1zjRESOOXKip79aXhYXDSdjknNAwb8QLNUYU_bzRMLSbEP4q3JA2Zl15ZB7XL5SdlAYvtZtjJZKCe6Q_qfU532YHEaZ66_nxo8z0FCCLZCMkkj2nR92lR22yHeMjQmm64C3cB2WtBfe5Y.lvdm9YS_6tOfuE3V5t6Q8G0MpY_mpbmJHfSdrEVPIJc&dib_tag=se&keywords=as+cronicas+dos+kane&qid=1786139418&sprefix=cronica+dos+%2Caps%2C269&sr=8-4&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678",
+      combinacao: "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2e5c5f58-ec5b-4d3b-bb97-af5a860afd92.__CR0,0,970,600_PT0_SX970_V1___.jpg"
     },
     {
       imagem: "https://i.pinimg.com/736x/05/0b/04/050b046c58b99a7fe69e2481c4a94675.jpg",
