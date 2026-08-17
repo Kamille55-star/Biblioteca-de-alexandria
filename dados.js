@@ -22,18 +22,18 @@ let dados = [
       combinacao: "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2e5c5f58-ec5b-4d3b-bb97-af5a860afd92.__CR0,0,970,600_PT0_SX970_V1___.jpg"
     },
     {
-      imagem: "https://i.pinimg.com/736x/05/0b/04/050b046c58b99a7fe69e2481c4a94675.jpg",
-      titulo: "Um desejo para nós dois.", //não mudei foto nem descrição
+      imagem: "https://m.media-amazon.com/images/I/91wfhMZUa3L.jpg",
+      titulo: "Um desejo para nós dois.", //mudei tudo certinho
       descricao: "Ela é amante de música clássica. Ele é um DJ com sinestesia. Após ela se decepcionar no primeiro show dele eles pensaram que nunca mais se encontrariam. Mas o destino gosta de brincar.",
-      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Annabeth_Chase",
-      combinacao: "https://www.projetou.com.br/posts/wp-content/uploads/sites/6/2021/06/partenon-2-1024x704.jpg"
+      link: "https://a.co/d/029rfR5s",
+      combinacao: "https://m.media-amazon.com/images/I/91wfhMZUa3L.jpg"
     },
     {
-      imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTup87UwlCcBfAMRLkH9Bggv3FExvCjAG_VFw&s",
-      titulo: "O tom mais gelado de azul", //não mudei foto 
-      descricao: "Thalia Grace é filha da mortal Beryl Grace e do deus Zeus. Aos 12 anos foi transformada em um pinheiro quando ficou para trás para salvar Annabeth e Luke. Possui medo de altura e atualmente é uma caçadora de Ártemis. Possui a habilidade de controlar a névoa e a eletricidade. Seu defeito fatal é a ambição.",
-      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Thalia_Grace",
-      combinacao: "https://pbs.twimg.com/media/Ep2RC6dXUAUkx4f.jpg" //não mudei descrição
+      imagem: "https://static.skeelo.com/remote/320/480/100/https://skoob.s3.amazonaws.com/livros/122450777/O_TOM_MAIS_GELADO_DE_AZUL_1714657030122450777SK-V11714657031B.jpg",
+      titulo: "O tom mais gelado de azul", //mudei tudo certinho
+      descricao: "Uma soez que foi adotada por Imáculas e vive como uma imácula. Vive perto da realeza, seu melhor amigo é o terceiro príncipe do reino. Mas tudo muda quando criaturas aparecem em um baile, matando sua mãe adotiva e despertando nela uma magia que ela não sabia que possuía. Em um reino que odeia magia. Agora ela precisa salvar o reino e descobrir quem ela realmente é.",
+      link: "https://a.co/d/0a8xCkNC",
+      combinacao: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIA_1PBdEfDMQ5yckVnxeHOJa7URs-hdOY2q77-oqpttshxHOo-IA54Mga&s=10" //não mudei descrição
     },
     {
       imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02DYv88xf3pVlQ4XDxSfP46pDa8K0GvHMWQ&s",
