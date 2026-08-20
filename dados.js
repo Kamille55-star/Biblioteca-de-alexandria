@@ -36,25 +36,25 @@ let dados = [
       combinacao: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIA_1PBdEfDMQ5yckVnxeHOJa7URs-hdOY2q77-oqpttshxHOo-IA54Mga&s=10" //não mudei descrição
     },
     {
-      imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02DYv88xf3pVlQ4XDxSfP46pDa8K0GvHMWQ&s",
-      titulo: "A Esperança", //não mudei foto nem descrição
-      descricao: "Filha do deus da guerra Ares com uma mortal desconhecida. É líder do chalé de Ares e gosta bastante de brigar. Demorou bastante para virar amiga do Percy. Seu defeito fatal provavelmente é o orgulho. Interesse amoroso: Chris Rodríguez.",
-      link: "https://aminoapps.com/c/mitologicpt/page/item/clarisse-la-rue/mq8j_8JF0Ie0d7bKQMzPpzrga144DraeQ1",
-      combinacao: "https://pm1.aminoapps.com/6475/ed59a93084fd637a1cf7c8c42e891477884b657e_hq.jpg"
+      imagem: "https://m.media-amazon.com/images/I/715ejknjS4L._UF1000,1000_QL80_.jpg",
+      titulo: "A Esperança", //mudei tudo certinho
+      descricao: "Peeta foi levado pela capital. E está diferente. Depois que o resgatam descobrem que a capital fez lavagem cerebral no Peeta. A revolução fica mais forte, mas Katniss percebe que talvez a líder da revolução se pareça mais com o Snow do que ela pensava. Em meio à guerra, Katniss é traída e perde pessoas importantes. Será que ela e Peeta vão conseguir sobreviver a guerra e a capital? E será que a saúde mental deles estará boa depois que tudo acabar? Descubra nesse último livro da trilogia Jogos Vorazes.",
+      link: "https://a.co/d/09rTrNd6",
+      combinacao: "https://m.media-amazon.com/images/S/pv-target-images/e0f41d9eb424509cfc055a786aad5b67c7dc5ca3f5288cfa932dbbadd52d2ed2._SX1080_FMjpg_.jpg"
     },
     {
-      imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQbocEOIRUb068YL1radhLjNQUAkW3kSuH6Q&s",
-      titulo: "Amor e gelato", //não mudei foto nem descrição
-      descricao: "Deus dos mares, terremotos, cavalos, lagos, rios, tempestades, secas, inundações. É pai de Percy Jackson e rival de Athena. Contraparte romano: Netuno.",
-      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Poseidon",
-      combinacao: "https://3cc791f55f295f1d.cdn.gocache.net/versada/img_blog/i1_13_21_1114_041018.jpg"
+      imagem: "https://m.media-amazon.com/images/I/81EE1CAUoEL.jpg",
+      titulo: "Amor e gelato", //mudei tudo certinho
+      descricao:"Lina viaja para a Itália para cumprir o último desejo de sua mãe. Mas ao chegar lá ela descobre que sua mãe tinha um segredo e que ela precisa descobrir a verdade sobre sua mãe e sobre seu pai. E no meio disso tudo ela conhece Ren, um garoto misterioso que vai ajudá-la a descobrir a verdade. Mas ela também conhece Thomas, um garoto que, assim como Ren, vai fazê-la se apaixonar. E no meio disso tudo ela precisa descobrir quem ela realmente é e o que ela realmente quer. (PS: Não assistam ao filme da Netlix, é um horror, não tem nada a ver com o livro, é uma adaptação horrível e sem sentido. Leiam o livro, é maravilhoso, mil vezes melhor que o filme. O filme é tão ruim que, sempre que vão falar de adaptações ruins de livros na comunidade literária, amor e gelato é um dos primeiros a serem citados.)",
+      link: "https://a.co/d/0eqh9mJ6",
+      combinacao: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnvf8KZT6kAJhMYHawRfj8Dxvfy11AkgCl3ATq3oJfJ9tU8Ql279dGnxDy&s=10"
     },
     {
-      imagem: "https://cdn.rickriordan.com/wp-content/uploads/2017/04/11230243/athenalongerguard-299x416.jpg",
-      titulo: "Harry Potter e a pedra filosofal", //não mudei foto nem descrição
-      descricao: "Deusa da sabedoria e da estratégia em guerras, da civilização, matemática, estratégia, guerra defensiva, do artesanato, das artes, habilidades, da inteligência e do brilhantismo, seu símbolo é uma coruja. Teve uma desavença com Aracne e depois disso todos os seus filhos adquiriram medo de aranhas. Olhos cinzentos e calculistas. Não gosta do Percy. Contraparte romano: Minerva.",
-      link: "https://riordan.fandom.com/wiki/Athena",
-      combinacao: "https://avesornamentaisjej.cdn.magazord.com.br/img/2024/03/produto/462/79-coruja-suindara-2.png?ims=600x600"
+      imagem: "https://m.media-amazon.com/images/I/81ibfYk4qmL.jpg",
+      titulo: "Harry Potter e a pedra filosofal", //mudei tudo certinho
+      descricao: "Harry Potter é um garoto órfão que vive com seus tios e seu primo, que o maltratam. No seu aniversário de 11 anos ele descobre que é um bruxo e que foi aceito na escola de magia e bruxaria de Hogwarts. Lá ele conhece novos amigos, aprende magia e descobre que é famoso no mundo bruxo por ter sobrevivido a um ataque do bruxo das trevas mais temido de todos os tempos, Lord Voldemort. Todos pensavam que Voldemort havia morrido, mas ele sobreviveu e está tentando voltar ao poder. Harry precisa enfrentar Voldemort e seus seguidores, os Comensais da Morte, para proteger seus amigos e o mundo bruxo.Todos pensavam que Voldemort estava morto, mas talvez ele não esteja tão morto assim. Harry conseguirá enfrentá-lo e proteger seus amigos e o mundo bruxo? Descubra nesse primeiro livro da série Harry Potter.",
+      link: "https://a.co/d/06iK5cyH",
+      combinacao: "https://m.media-amazon.com/images/I/81uRUnI9Y3L._AC_UF1000,1000_QL80_.jpg"
     },
     {
       imagem: "https://i.pinimg.com/564x/d7/ae/72/d7ae724aeb0af8b702e4d75008539d84.jpg",
