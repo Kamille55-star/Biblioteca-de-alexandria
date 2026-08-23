@@ -97,7 +97,7 @@ let dados = [
       combinacao: "imagens/combinacao-a-rainha-do-nada.jpg" //em arquivo
     },
     {
-      imagem: "imagens/estilhaca-me.jpg", //em arquivo
+      imagem: "imagens/estilhaca-me.jpeg", //em arquivo
       titulo: "Estilhaça-me", //não mudei foto nem descrição
       autor: "Tahereh Mafi",
       descricao: "Único cão infernal amigável existente. Seu dono inicialmente era Quintus (Dédalo), mas depois da morte de Dédalo o seu dono virou Percy. Ela é filha de Cérbero e Nix.",
