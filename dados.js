@@ -17,7 +17,7 @@ let dados = [
       combinacao: "imagens/a-profecia-dos-sete.jpeg",//em arquivo
     },
    {
-      imagem: "imagens/as-cronicas-dos-kane.jpeg", //em arquivo
+      imagem: "imagens/a-cronica-dos-kane.jpeg", //em arquivo
       titulo: "As crônicas dos Kane.", //mudei foto
       autor: "Rick Riordan",
       descricao: "Dois irmãos separados após a morte da mãe passam o dia com o pai. Mas após o pai roubar uma pedra preciosa e morrer tentando invocar Hórus os irmãos descobrem que a mitologia egípcia e outras mitologias são reais. E que eles precisam salvar o mundo.",
