@@ -107,6 +107,11 @@ section button:hover {
     margin: 0.5rem 0; /* Margem acima e abaixo */
 }
 
+.autor {
+    color: #ffffff; /* Cor do texto */
+    margin: 0.5rem 0; /* Margem acima e abaixo */
+}
+
 /* Estiliza o rodapé da página */
 footer {
     background-color: #858585; /* Cor de fundo do rodapé */
