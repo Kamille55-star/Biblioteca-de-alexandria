@@ -17,36 +17,36 @@ let dados = [
       combinacao: "imagens/a-profecia-dos-sete.jpeg",
     },
    {
-      imagem: "https://a-static.mlcdn.com.br/450pxx450px/kit-3-livros-as-cronicas-dos-kane-rick-riordan-intrinseca/studiochihiro/11219024825/f145497dc4b80fc60d1e2e4448c76417.jpeg",
+      imagem: "imagens/as-cronicas-dos-kane.jpeg",
       titulo: "As crônicas dos Kane.", //mudei foto
       autor: "Rick Riordan",
       descricao: "Dois irmãos separados após a morte da mãe passam o dia com o pai. Mas após o pai roubar uma pedra preciosa e morrer tentando invocar Hórus os irmãos descobrem que a mitologia egípcia e outras mitologias são reais. E que eles precisam salvar o mundo.",
       link: "https://www.amazon.com.br/Cronicas-Piramide-Vermelha-Serpente-Volumes/dp/8900007661/ref=sr_1_4?crid=32BZE5NBLUZQW&dib=eyJ2IjoiMSJ9.PHHeqARn5aj7hNkMGTRGlFUmeI2vaaI-FmAiKyIxsuSPCUsV9Fh0nxhUHu6GpNFewST_T-6XxmpWSGbbzI2Z39cqmu8h2M55z-HnQ3d_cFqjCNWLwTpjcgB_AcB9kAjhGEgsm2KU9CRM0gI7uxQ_pg0AtGF5BL1zjRESOOXKip79aXhYXDSdjknNAwb8QLNUYU_bzRMLSbEP4q3JA2Zl15ZB7XL5SdlAYvtZtjJZKCe6Q_qfU532YHEaZ66_nxo8z0FCCLZCMkkj2nR92lR22yHeMjQmm64C3cB2WtBfe5Y.lvdm9YS_6tOfuE3V5t6Q8G0MpY_mpbmJHfSdrEVPIJc&dib_tag=se&keywords=as+cronicas+dos+kane&qid=1786139418&sprefix=cronica+dos+%2Caps%2C269&sr=8-4&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678",
-      combinacao: "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2e5c5f58-ec5b-4d3b-bb97-af5a860afd92.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+      combinacao: "imagens/guia-de-sobrevivencia-dos-kane.jpg",
     },
     {
-      imagem: "https://m.media-amazon.com/images/I/91wfhMZUa3L.jpg",
+      imagem: "imagens/um-desejo-para-nos-dois.jpg",
       titulo: "Um desejo para nós dois.", //mudei tudo certinho
       autor: "Tillie Cole",
       descricao: "Ela é amante de música clássica. Ele é um DJ com sinestesia. Após ela se decepcionar no primeiro show dele eles pensaram que nunca mais se encontrariam. Mas o destino gosta de brincar.",
       link: "https://a.co/d/029rfR5s",
-      combinacao: "https://m.media-amazon.com/images/I/91wfhMZUa3L.jpg"
+      combinacao: "imagens/trecho-um-desejo-para-nos-dois.jpg",
     },
     {
-      imagem: "https://static.skeelo.com/remote/320/480/100/https://skoob.s3.amazonaws.com/livros/122450777/O_TOM_MAIS_GELADO_DE_AZUL_1714657030122450777SK-V11714657031B.jpg",
+      imagem: "imagens/o-tom-mais-gelado-de-azul.jpg",
       titulo: "O tom mais gelado de azul", //mudei tudo certinho
       autor: "A.Z Florence",
       descricao: "Uma soez que foi adotada por Imáculas e vive como uma imácula. Vive perto da realeza, seu melhor amigo é o terceiro príncipe do reino. Mas tudo muda quando criaturas aparecem em um baile, matando sua mãe adotiva e despertando nela uma magia que ela não sabia que possuía. Em um reino que odeia magia. Agora ela precisa salvar o reino e descobrir quem ela realmente é.",
       link: "https://a.co/d/0a8xCkNC",
-      combinacao: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIA_1PBdEfDMQ5yckVnxeHOJa7URs-hdOY2q77-oqpttshxHOo-IA54Mga&s=10" //não mudei descrição
+      combinacao: "imagens/sinopse-o-tom-mais-gelado-de-azul.jpg" //não mudei descrição
     },
     {
-      imagem: "https://m.media-amazon.com/images/I/715ejknjS4L._UF1000,1000_QL80_.jpg",
+      imagem: "imagens/a-esperanca.jpg",
       titulo: "A Esperança", //mudei tudo certinho
       autor: "Suzanne Collins",
       descricao: "Peeta foi levado pela capital. E está diferente. Depois que o resgatam descobrem que a capital fez lavagem cerebral no Peeta. A revolução fica mais forte, mas Katniss percebe que talvez a líder da revolução se pareça mais com o Snow do que ela pensava. Em meio à guerra, Katniss é traída e perde pessoas importantes. Será que ela e Peeta vão conseguir sobreviver a guerra e a capital? E será que a saúde mental deles estará boa depois que tudo acabar? Descubra nesse último livro da trilogia Jogos Vorazes.",
       link: "https://a.co/d/09rTrNd6",
-      combinacao: "https://m.media-amazon.com/images/S/pv-target-images/e0f41d9eb424509cfc055a786aad5b67c7dc5ca3f5288cfa932dbbadd52d2ed2._SX1080_FMjpg_.jpg"
+      combinacao: "imagens/combinacao-a-esperanca.jpg", //não mudei descrição
     },
     {
       imagem: "https://m.media-amazon.com/images/I/81EE1CAUoEL.jpg",
@@ -65,7 +65,7 @@ let dados = [
       combinacao: "https://m.media-amazon.com/images/I/81uRUnI9Y3L._AC_UF1000,1000_QL80_.jpg"
     },
     {
-      imagem: "https://i.pinimg.com/564x/d7/ae/72/d7ae724aeb0af8b702e4d75008539d84.jpg",
+      imagem: "imagens/vermelho-e-a-cor-do-caos.jpg",
       titulo: "Vermelho é a cor do caos", //não mudei foto nem descrição
       autor: "A.Z Florence",
       descricao: "Deus do vinho, do teatro, da loucura, das festas e da alegria. Foi condenado a ficar no acampamento meio-sangue e foi proibido de beber vinho após perseguir uma ninfa duas vezes. Contraparte romano: Baco.",
