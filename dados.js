@@ -153,7 +153,7 @@ let dados = [
       combinacao: "https://pm1.aminoapps.com/7102/fbe6ec1402ec3f74484b4b18e4ce154e59bb9c54r1-750-522v2_uhq.jpg"
     },
     {
-      imagem: "https://i.pinimg.com/474x/e2/99/29/e29929eb4257c79a1a829ca767088d89.jpg",
+      imagem: "imagens/o-jardim-das-torres.jpg",
       titulo: "O jardim das torres", //não mudei foto nem descrição
       autor: "Karina Souza",
       descricao: "Filha de Plutão (contraparte romana de Hades) e Marie Levesque. É meia-irmã de Nico e Bianca Di Angelo. Pode controlar pedras preciosas e morreu em 1941, e iria para os campos Elísios, mas se sacrificou pela mãe, aceitando a punição dela em troca de deixá-la ilesa. Reviveu 70 anos depois, quando Nico Di Angelo a encontrou enquanto procurava Bianca Di Angelo.",
