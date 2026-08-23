@@ -1,11 +1,11 @@
 let dados = [
     {
-      imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSpu8ZNKeFS2N_k2KGlYIovM2_wAzsvvCg0A&s",
+      imagem: "percy-jackson-e-os-olimpianos.jpg",
       titulo: "Percy Jackson e os Olimpianos",
       autor: "Rick Riordan",
       descricao: "Escrito por Rick Riordan é uma série de 5 livros sobre um garoto que descobre que é um semideus e precisa salvar o mundo de Cronos",
       link: "https://www.amazon.com.br/Box-Percy-Jackson-olimpianos-edi%C3%A7%C3%A3o/dp/8551008889/ref=sr_1_1?crid=147FXC113YXCG&dib=eyJ2IjoiMSJ9.mwpWO7SEOQOYZmkcn864j1n-yiqm8FDSyZbRtrLny7wSpAlMd11XRYOnWG7gtcC9_qCvD9BDgLFumZjjmhzClj95Pr83JhAHtjj21FbR644IUkpv7-9RmdsnMC717hQr3hiLASrpCzK30EPE64506I9JMCn7KyHEA1P7890lowWFs2Yzn1G7lJyhSjT4zqLd3rK0B2K5tuMWhq7eaF14OymnOzNFQ_0wpyzYK3Ad4_-G7fO18cdNZoiXIZPY9evVCYolQ8Cv6UooC9lkqLIaMWvJfcSL3xnUmoZ-n8ndI2A.31ERHRBz_RXcQXEFuEPOClvvuTptzH1YDnYvE5jzEcM&dib_tag=se&keywords=percy+jackson+e+os+olimpianos&qid=1759443937&sprefix=percy+jack%2Caps%2C336&sr=8-1",
-      combinacao: "https://i.pinimg.com/originals/5c/e0/97/5ce0974e23c06b7e1a6902c2c6e3cdfc.jpg",
+      combinacao: "a-grande-profecia-pjo.jpg",
 
     },
     {
