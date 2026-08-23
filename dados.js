@@ -9,7 +9,7 @@ let dados = [
 
     },
     {
-      imagem: "imagens/herois-do-olimpo.jpeg",
+      imagem: "imagens/herois-do-olimpo.jpg",
       titulo:"Heróis do Olimpo",
       autor: "Rick Riordan",
       descricao: "Heróis de Percy e os Olimpianos se juntam a novos heróis para salvar o mundo de Gaia",
