@@ -155,6 +155,7 @@ let dados = [
     {
       imagem: "https://i.pinimg.com/474x/e2/99/29/e29929eb4257c79a1a829ca767088d89.jpg",
       titulo: "O jardim das torres", //não mudei foto nem descrição
+      autor: "Karina Souza",
       descricao: "Filha de Plutão (contraparte romana de Hades) e Marie Levesque. É meia-irmã de Nico e Bianca Di Angelo. Pode controlar pedras preciosas e morreu em 1941, e iria para os campos Elísios, mas se sacrificou pela mãe, aceitando a punição dela em troca de deixá-la ilesa. Reviveu 70 anos depois, quando Nico Di Angelo a encontrou enquanto procurava Bianca Di Angelo.",
       link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Hazel_Levesque#Vida_Pregressa",
       combinacao: "https://img.freepik.com/fotos-premium/pedra-de-ouro-de-ouro-bruto-em-macro-fotografia-de-tesouro-escondido-de-mina-de-ouro_72932-5768.jpg"
