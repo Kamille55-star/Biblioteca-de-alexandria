@@ -1,20 +1,20 @@
 let dados = [
     {
-      imagem: "percy-jackson-e-os-olimpianos.jpeg",
+      imagem: "imagens/percy-jackson-e-os-olimpianos.jpeg",
       titulo: "Percy Jackson e os Olimpianos",
       autor: "Rick Riordan",
       descricao: "Escrito por Rick Riordan é uma série de 5 livros sobre um garoto que descobre que é um semideus e precisa salvar o mundo de Cronos",
       link: "https://www.amazon.com.br/Box-Percy-Jackson-olimpianos-edi%C3%A7%C3%A3o/dp/8551008889/ref=sr_1_1?crid=147FXC113YXCG&dib=eyJ2IjoiMSJ9.mwpWO7SEOQOYZmkcn864j1n-yiqm8FDSyZbRtrLny7wSpAlMd11XRYOnWG7gtcC9_qCvD9BDgLFumZjjmhzClj95Pr83JhAHtjj21FbR644IUkpv7-9RmdsnMC717hQr3hiLASrpCzK30EPE64506I9JMCn7KyHEA1P7890lowWFs2Yzn1G7lJyhSjT4zqLd3rK0B2K5tuMWhq7eaF14OymnOzNFQ_0wpyzYK3Ad4_-G7fO18cdNZoiXIZPY9evVCYolQ8Cv6UooC9lkqLIaMWvJfcSL3xnUmoZ-n8ndI2A.31ERHRBz_RXcQXEFuEPOClvvuTptzH1YDnYvE5jzEcM&dib_tag=se&keywords=percy+jackson+e+os+olimpianos&qid=1759443937&sprefix=percy+jack%2Caps%2C336&sr=8-1",
-      combinacao: "a-grande-profecia.jpeg",
+      combinacao: "imagens/a-grande-profecia.jpeg",
 
     },
     {
-      imagem: "herois-do-olimpo.jpeg",
+      imagem: "imagens/herois-do-olimpo.jpeg",
       titulo:"Heróis do Olimpo",
       autor: "Rick Riordan",
       descricao: "Heróis de Percy e os Olimpianos se juntam a novos heróis para salvar o mundo de Gaia",
       link: "https://a.co/d/iPnetIo", //mudei foto
-      combinacao: "a-profecia-dos-sete.jpeg",
+      combinacao: "imagens/a-profecia-dos-sete.jpeg",
     },
    {
       imagem: "https://a-static.mlcdn.com.br/450pxx450px/kit-3-livros-as-cronicas-dos-kane-rick-riordan-intrinseca/studiochihiro/11219024825/f145497dc4b80fc60d1e2e4448c76417.jpeg",
