@@ -35,7 +35,7 @@ let dados = [
     {
       imagem: "https://static.skeelo.com/remote/320/480/100/https://skoob.s3.amazonaws.com/livros/122450777/O_TOM_MAIS_GELADO_DE_AZUL_1714657030122450777SK-V11714657031B.jpg",
       titulo: "O tom mais gelado de azul", //mudei tudo certinho
-      autor: "Az. Florence",
+      autor: "A.Z Florence",
       descricao: "Uma soez que foi adotada por Imáculas e vive como uma imácula. Vive perto da realeza, seu melhor amigo é o terceiro príncipe do reino. Mas tudo muda quando criaturas aparecem em um baile, matando sua mãe adotiva e despertando nela uma magia que ela não sabia que possuía. Em um reino que odeia magia. Agora ela precisa salvar o reino e descobrir quem ela realmente é.",
       link: "https://a.co/d/0a8xCkNC",
       combinacao: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIA_1PBdEfDMQ5yckVnxeHOJa7URs-hdOY2q77-oqpttshxHOo-IA54Mga&s=10" //não mudei descrição
