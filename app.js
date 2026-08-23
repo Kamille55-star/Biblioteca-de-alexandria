@@ -19,7 +19,9 @@ campoPesquisa = campoPesquisa.toLowerCase()
   
   for (let dado of dados) { 
     titulo= dado.titulo.toLowerCase()
-    if (titulo.includes(campoPesquisa)|| dado.descricao.includes(campoPesquisa)){
+    let autor = dado.autor.toLowerCase()
+    let descricao = dado.descricao.toLowerCase()
+    if (titulo.includes(campoPesquisa)|| autor.includes(campoPesquisa)|| descricao.includes(campoPesquisa)){
       
       resultados += `
     <div class="item-resultado">
