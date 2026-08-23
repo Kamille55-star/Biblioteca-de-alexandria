@@ -22,7 +22,7 @@ let dados = [
       autor: "Rick Riordan",
       descricao: "Dois irmãos separados após a morte da mãe passam o dia com o pai. Mas após o pai roubar uma pedra preciosa e morrer tentando invocar Hórus os irmãos descobrem que a mitologia egípcia e outras mitologias são reais. E que eles precisam salvar o mundo.",
       link: "https://www.amazon.com.br/Cronicas-Piramide-Vermelha-Serpente-Volumes/dp/8900007661/ref=sr_1_4?crid=32BZE5NBLUZQW&dib=eyJ2IjoiMSJ9.PHHeqARn5aj7hNkMGTRGlFUmeI2vaaI-FmAiKyIxsuSPCUsV9Fh0nxhUHu6GpNFewST_T-6XxmpWSGbbzI2Z39cqmu8h2M55z-HnQ3d_cFqjCNWLwTpjcgB_AcB9kAjhGEgsm2KU9CRM0gI7uxQ_pg0AtGF5BL1zjRESOOXKip79aXhYXDSdjknNAwb8QLNUYU_bzRMLSbEP4q3JA2Zl15ZB7XL5SdlAYvtZtjJZKCe6Q_qfU532YHEaZ66_nxo8z0FCCLZCMkkj2nR92lR22yHeMjQmm64C3cB2WtBfe5Y.lvdm9YS_6tOfuE3V5t6Q8G0MpY_mpbmJHfSdrEVPIJc&dib_tag=se&keywords=as+cronicas+dos+kane&qid=1786139418&sprefix=cronica+dos+%2Caps%2C269&sr=8-4&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678",
-      combinacao: "imagens/guia-de-sobrevivencia-dos-kane.jpg",//em arquivo
+      combinacao: "imagens/guia-de-sobrevivencia-kane.jpg",//em arquivo
     },
     {
       imagem: "imagens/um-desejo-para-nos-dois.jpg", //em arquivo
