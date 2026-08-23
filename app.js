@@ -27,6 +27,7 @@ campoPesquisa = campoPesquisa.toLowerCase()
               <h2> 
                 <a href="${dado.combinacao}" target="_blank">${dado.titulo}</a>
               </h2>
+          <p class="autor">Autor: ${dado.autor}</p>
           <p class = "descricao">${dado.descricao}</p>
               <a href="${dado.link}" target="_blank">Mais informações</a>
             </div>
