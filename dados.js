@@ -92,7 +92,7 @@ let dados = [
       imagem: "imagens/a-rainha-do-nada.jpg", //em arquivo
       titulo: "A rainha do nada", //não mudei foto nem descrição
       autor: "Holly Black",
-      descricao: "Jude, sem entender o trocadilho de Cardan, se muda para o mundo mortal e vive junto com sua irmã, Vivian. Mas quando precisa retornar ao reino feérico para salvar sua irmã gêmea, Taryn, logo descobre que poderia ter voltado quando quisesse. E que Cardan percebeu a presença dela assim que ela chegou na festa. Mas, por causa de uma maldição Cardan se transforma em uma serpente. E Jude precisa, além de governar o reino feérico, salvar Cardan.",
+      descricao: "Jude, sem entender o trocadilho de Cardan, se muda para o mundo mortal e vive junto com sua irmã, Vivian. Mas quando precisa retornar ao reino feérico para salvar sua irmã gêmea, Taryn, logo descobre que poderia ter voltado quando quisesse. E que Cardan percebeu a presença dela assim que ela chegou na festa. Mas, por causa de uma maldição, Cardan se transforma em uma serpente. E Jude precisa, além de governar o reino feérico, salvar Cardan.",
       link: "https://a.co/d/0aE9C0P1",
       combinacao: "imagens/combinacao-a-rainha-do-nada.jpg" //em arquivo
     },
