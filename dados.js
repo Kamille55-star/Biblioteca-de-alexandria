@@ -68,32 +68,32 @@ let dados = [
       imagem: "imagens/vermelho-e-a-cor-do-caos.jpg", //em arquivo
       titulo: "Vermelho é a cor do caos", //não mudei foto nem descrição
       autor: "A.Z Florence",
-      descricao: "Deus do vinho, do teatro, da loucura, das festas e da alegria. Foi condenado a ficar no acampamento meio-sangue e foi proibido de beber vinho após perseguir uma ninfa duas vezes. Contraparte romano: Baco.",
-      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Dion%C3%ADsio",
+      descricao: "Ela é uma assassina. Ele é um rei. O rei que matou os pais dela. Navya trabalha para o rei inimigo de Davion, Elbanot. Mas, quando uma missão dá errado, ele a salva. E ela descobre que nem tudo é como Elbanot contou. E que quem matou os pais dela não era quem ela pensava que fosse. Entre descobrir verdades de seu passado e alguns poderes, Navya vai descobiri que sua missão não é matar Davion, mas sim derrotar Elbanot e ser a guardiã daquele mundo. A guardiã do caos. E que Davion é seu par perfeito, o guardião dos cosmos.",
+      link: "https://a.co/d/04pHQq8j",
       combinacao: "imagens/combinacao-vermelho-e-a-cor-do-caos.jpeg", //em arquivo
     },
     {
       imagem: "imagens/o-principe-cruel.jpg", //em arquivo
       titulo: "O príncipe cruel", //não mudei foto nem descrição
       autor: "Holly Black",
-      descricao: "Deusa da lareira, do fogo, do calor, do lar, da família, da vida doméstica, das oferendas, do estado e da crença. A mais velha dos 12 Olimpianos, ela desistiu de seu lugar no Olimpo. A atual guardiã de Elpis, o espírito da esperança. Contraparte romana: Vesta.",
-      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/H%C3%A9stia",
+      descricao: "Jude viu sua mãe morrer diante de seus olhos. Madoc a matou sem nem piscar e levou ela e suas irmãs para o mundo feérico. Ela cresceu com Madoc, aprendeu a lutar e a se virar. Mas Cardan e seu grupo tornam a vida dela um inferno simplesmente porque ela é humana. Mas quando Madoc diz que ela não é forte o bastante para fazer parte da guarda real ela decide provar o contrário... Até que vira espiã de Dain. E não só a vida dela muda por completo, como também a vida de Cardan e do reino feérico.",
+      link: "https://a.co/d/04LP0MXj",
       combinacao: "imagens/edicao-colecionador-o-principe-cruel.jpeg" //em arquivo
     },
     {
       imagem: "imagens/o-rei-peverso.jpg", //em arquivo
       titulo: "O rei peverso", //não mudei foto nem descrição
       autor: "Holly Black",
-      descricao: "Grover foi o sátiro designado para cuidar de Thalia Grace e de Percy Jackson, se tornando um grande amigo do filho de Poseidon. Foi o primeiro e único buscador a encontrar Pã e se tornou membro do Conselho dos Anciãos de Casco Fendido. Pode dar bençãos aos animais, ler emoções, sentir cheiros de mosntros, deuses, semideuses e outras criaturas poderosas, é um excelente escalador e possui medo do subterrâneo e de ciclopes, e por isso não se dava bem com Tyson no início.",
-      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Grover_Underwood",
+      descricao: "Depois de ser enganado por Jude para assumir o trono, Cardan conseguiu fazer com que Jude não pudesse dar ordens muito importantes a ele. Mas quando ela é sequestrada pelo reino marinho ele faz de tudo para encontrá-la. E a expulsa do reino feérico.",
+      link: "https://a.co/d/0ekubjrT",
       combinacao:"imagens/edicao-colecionador-o-rei-peverso.jpg" //em arquivo
     },
     {
       imagem: "imagens/a-rainha-do-nada.jpg", //em arquivo
       titulo: "A rainha do nada", //não mudei foto nem descrição
       autor: "Holly Black",
-      descricao: "Tyson é um ciclope, sendo filho de Poseidon e meio-irmão de Percy. Um dos poucos ciclopes bons, gentil, doce, infantil, chorão. Possui grande habilidades de contrução, só usa força bruta para salvar os amigos e é muito inteligente. É um dos poucos ciclopes realmente reconhecidos e reclamados por Poseidon.",
-      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Tyson",
+      descricao: "Jude, sem entender o trocadilho de Cardan, se muda para o mundo mortal e vive junto com sua irmã, Vivian. Mas quando precisa retornar ao reino feérico para salvar sua irmã gêmea, Taryn, logo descobre que poderia ter voltado quando quisesse. E que Cardan percebeu a presença dela assim que ela chegou na festa. Mas, por causa de uma maldição Cardan se transforma em uma serpente. E Jude precisa, além de governar o reino feérico, salvar Cardan.",
+      link: "https://a.co/d/0aE9C0P1",
       combinacao: "imagens/combinacao-a-rainha-do-nada.jpg" //em arquivo
     },
     {
